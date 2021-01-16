@@ -1,0 +1,3 @@
+include ':capture'
+include ':app'
+rootProject.name = "ScreenCaptureMonitor"
